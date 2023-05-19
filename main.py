@@ -15,6 +15,7 @@ https://api.arcade.academy/en/stable/examples/platform_tutorial/index.html
 https://api.arcade.academy/en/stable/examples/platform_tutorial/step_02.html 
 http://programarcadegames.com/index.php?chapter=example_code_platformer 
 http://programarcadegames.com/python_examples/show_file.php?file=platform_jumper.py 
+https://www.youtube.com/watch?v=Ongc4EVqRjo&list=PLjcN1EyupaQnHM1I9SmiXfbT6aG4ezUvu&ab_channel=CodingWithRuss 
 """
 
 # import libraries
